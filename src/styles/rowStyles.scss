@@ -1,0 +1,8 @@
+.row-root {
+  display: -webkit-flex; 
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  justify-content: space-between; 
+}
