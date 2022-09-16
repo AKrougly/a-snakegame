@@ -1,6 +1,6 @@
 import React from 'react';
 
-import SnackGame from 'pages/snackgame/SnackGame';
+import SnackGame from 'pages/snakegame/SnakeGame';
 
 const App: React.FC = (): React.ReactElement => {
   return (
